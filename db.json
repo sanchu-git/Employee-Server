@@ -1,0 +1,47 @@
+
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name":"",
+      "profilePic":""
+    },
+    {
+      "id": "9d11",
+      "empId": "EMP101",
+      "name": "Liya",
+      "email": "liya@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "17cf",
+      "empId": "EMP102",
+      "name": "Salman Nazar",
+      "email": "salman@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "8f00",
+      "empId": "EMP103",
+      "name": "Aswin",
+      "email": "aswin@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "395d",
+      "empId": "EMP104",
+      "name": "Isha",
+      "email": "isha@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "430d",
+      "empId": "EMP106",
+      "name": "Sainul Abid",
+      "email": "sainu@gmail.com",
+      "status": "0"
+    }
+  ]
+}
